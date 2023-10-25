@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "alios.oss",
+      "type": "com.example.utils.AliOSSProperties",
+      "sourceType": "com.example.utils.AliOSSProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "alios.oss.access-key-id",
+      "type": "java.lang.String",
+      "sourceType": "com.example.utils.AliOSSProperties"
+    },
+    {
+      "name": "alios.oss.access-key-secret",
+      "type": "java.lang.String",
+      "sourceType": "com.example.utils.AliOSSProperties"
+    },
+    {
+      "name": "alios.oss.bucket-name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.utils.AliOSSProperties"
+    },
+    {
+      "name": "alios.oss.endpoint",
+      "type": "java.lang.String",
+      "sourceType": "com.example.utils.AliOSSProperties"
+    }
+  ],
+  "hints": []
+}
